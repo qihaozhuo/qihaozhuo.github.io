@@ -16,9 +16,9 @@ Prof. Meng Wang
 + Computational Fluid Dynamics
 
 ## Education
-+ M.S.E. in Fluid Mechanics, University of Chinese Academy of Sciences, Beijing, Jun 2021. 
++ M.S.E. in Fluid Mechanics, University of Chinese Academy of Sciences, Beijing, Jun 2021
   + Advisor: Prof. Mingjiu Ni
-+ B.S. in Physics, University of Chinese Academy of Sciences, Beijing, Jun 2018.
++ B.S. in Physics, University of Chinese Academy of Sciences, Beijing, Jun 2018
   + Advisor: Prof. Mingjiu Ni
 
 ## Contact
