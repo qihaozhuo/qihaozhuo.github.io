@@ -1,8 +1,7 @@
 # Qihao Zhuo
 
 ## About Me
-Graduate Student
-
+Ph.D. Student
 Aerospace & Mechanical Engineering
 
 University of Notre Dame
