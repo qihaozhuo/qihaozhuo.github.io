@@ -2,7 +2,9 @@
 
 ## About Me
 Graduate Student
+
 Aerospace & Mechanical Engineering
+
 University of Notre Dame
 
 Research Interests: 
