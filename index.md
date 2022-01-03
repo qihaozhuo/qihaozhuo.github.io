@@ -7,7 +7,7 @@ Aerospace & Mechanical Engineering
 
 University of Notre Dame
 
-Research Interests: 
+### Research Interests: 
 + Aeroacoustics
 + Large Eddy Simulation
 + Computational Fluid Dynamics
