@@ -17,7 +17,7 @@ Prof. Meng Wang
 
 ## Education
 + M.S.E. in Fluid Mechanics, University of Chinese Academy of Sciences, Beijing, Jun 2021. 
-++ Advisor: Prof. Mingjiu Ni
+  + Advisor: Prof. Mingjiu Ni
 + B.S. in Physics, University of Chinese Academy of Sciences, Beijing, Jun 2018.
 
 ## Contact
