@@ -23,8 +23,13 @@ Prof. Meng Wang
 
 ## Contact
 Qihao Zhuo
+
 Department of Aerospace and Mechanical Engineering
+
 B033 Hessert Laboratory
+
 University of Notre Dame
+
 Notre Dame, IN 46556
+
 qzhuo@nd.edu
