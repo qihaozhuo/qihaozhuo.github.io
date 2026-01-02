@@ -1,7 +1,7 @@
 # Qihao Zhuo
 
 ## About Me
-Ph.D. Student
+Ph.D. Candidate
 
 Aerospace & Mechanical Engineering
 
